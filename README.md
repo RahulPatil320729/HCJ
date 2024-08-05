@@ -1,2 +1,2 @@
 # Portfolio website
-My Portfolio Website HTML, CSS &amp; JS
+My Portfolio Website using HTML, CSS and JS.
